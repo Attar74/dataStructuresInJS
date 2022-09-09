@@ -1,0 +1,2 @@
+# linkedListInJs
+linkedList in javaScript
